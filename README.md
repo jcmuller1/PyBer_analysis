@@ -11,3 +11,4 @@ The purpose of this analysis was to look for differences in PyBer ride sharing d
 
 **Figure 2. Total Fares by City Type**
 ![image 2](analysis/PyBer_fare_summary.png)
+ 
